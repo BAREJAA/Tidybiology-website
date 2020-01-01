@@ -15,7 +15,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [[menu.main]]
     name = "Package"
     url = "/docs/"
-    [[menu.main]]
+[[menu.main]]
     name = "Book"
     url = "/book/"
 [[menu.main]]
